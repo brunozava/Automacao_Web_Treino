@@ -1,0 +1,3 @@
+default: --no-source --color --format pretty
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
